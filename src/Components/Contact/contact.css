@@ -5,3 +5,20 @@ ion-icon {
 #mail {
     font-size: 20px;
 }
+
+
+@media screen and (max-width: 575px) {
+ion-icon {
+  color: #6A8E7F;
+  font-size: 20px;
+}
+	
+}
+
+@media screen and (min-width: 575px) and (max-width:768px) {
+ion-icon {
+  color: #6A8E7F;
+  font-size: 30px;
+}
+	
+}

@@ -9,5 +9,25 @@
 	font-size: 20px;
 	width: 750px;
 	margin: auto;
+}
+
+
+@media screen and (max-width: 575px) {
+	#root > div > div:nth-child(2) > p {
+		font-family: 'Lato', Sans-Serif;
+		font-size: 10px;
+		width: 400px;
+		margin: auto;
+	}
+	
+}
+
+@media screen and (min-width: 575px) and (max-width:768px) {
+	#root > div > div:nth-child(2) > p {
+		font-family: 'Lato', Sans-Serif;
+		font-size: 15px;
+		width: 400px;
+		margin: auto;
+	}
 	
 }
