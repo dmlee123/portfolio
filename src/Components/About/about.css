@@ -11,23 +11,21 @@
 	margin: auto;
 }
 
-
+/* these 2 below control size for ABOUT and CONTACT */
 @media screen and (max-width: 575px) {
 	#root > div > div:nth-child(2) > p {
 		font-family: 'Lato', Sans-Serif;
 		font-size: 10px;
-		width: 400px;
+		width: 300px;
 		margin: auto;
 	}
-	
 }
 
-@media screen and (min-width: 575px) and (max-width:768px) {
+@media screen and (min-width: 575px) and (max-width: 768px) {
 	#root > div > div:nth-child(2) > p {
 		font-family: 'Lato', Sans-Serif;
 		font-size: 15px;
 		width: 400px;
 		margin: auto;
 	}
-	
 }

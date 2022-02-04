@@ -75,18 +75,15 @@
 	border: 1px solid black;
 }
 
-
-
-
 @media screen and (max-width: 620px) {
 	#carousel {
-		width: 400px;
+		width: 350px;
 		margin: auto;
 	}
 }
 
 @media screen and (min-width: 620px) and (max-width: 800px) {
-#carousel {
+	#carousel {
 		width: 600px;
 		margin: auto;
 	}
