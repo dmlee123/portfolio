@@ -31,8 +31,9 @@
   -webkit-user-select: none;
   touch-action: manipulation;
   margin-top:5px;
-  margin-bottom:5px;
+  margin-bottom:10px;
   margin-right: 5px;
+  font-family: 'Lato', Sans-Serif;
 }
 
 #home:hover {

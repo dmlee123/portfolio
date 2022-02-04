@@ -5,15 +5,15 @@ import { Link } from 'react-router-dom';
 function Navigate() {
 	return (
 		<div>
-			<Link to='/work'>
+			<Link id='navigate' to='/work'>
 				<button id='button'>Work</button>
 			</Link>{' '}
 			&nbsp;
-			<Link to='/about'>
+			<Link id='navigate' to='/about'>
 				<button id='button'>About</button>
 			</Link>
 			&nbsp;
-			<Link to='/contact'>
+			<Link id='navigate' to='/contact'>
 				<button id='button'>Contact</button>
 			</Link>
 			&nbsp;
