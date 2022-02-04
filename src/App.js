@@ -15,6 +15,7 @@ function App() {
 				<Route path='/contact' element={<Contact />} />
 				<Route path='/work' element={<Work />} />
 			</Routes>
+      <br />
 			<Navigate />
 		</div>
 	);

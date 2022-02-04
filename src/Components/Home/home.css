@@ -1,0 +1,7 @@
+#root > div > div:nth-child(1) > div > h1 {
+	font-family: 'Courgette', cursive;
+	font-size: 100px;
+	display: flex;
+	justify-content: center;
+	margin-top: 200px;
+}

@@ -7,13 +7,16 @@ function Navigate() {
 		<div>
 			<Link to='/work'>
 				<button id='button'>Work</button>
-			</Link>
+			</Link>{' '}
+			&nbsp;
 			<Link to='/about'>
 				<button id='button'>About</button>
 			</Link>
+			&nbsp;
 			<Link to='/contact'>
 				<button id='button'>Contact</button>
 			</Link>
+			&nbsp;
 		</div>
 	);
 }

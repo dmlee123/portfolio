@@ -1,0 +1,12 @@
+#root > div > div:nth-child(2) > h3 {
+	font-family: 'Arvo', Serif;
+	font-weight: 500;
+	font-size: 50px;
+}
+
+#root > div > div:nth-child(2) > p {
+	font-family: 'Lato', Sans-Serif;
+	font-size: 20px;
+	width: 750px;
+	margin: auto;
+}
