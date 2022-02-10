@@ -34,7 +34,7 @@ function Work() {
 
 					<Carousel.Caption>
 						<h3 style={{ color: 'white' }}>Sports Odds Calculator</h3>
-						<a href='https://dmlee123.github.io/frontend-project4/'>
+						<a href='https://dmlee123.github.io/sports-app/'>
 							<button id='enter'>Enter </button>
 						</a>
 					</Carousel.Caption>
