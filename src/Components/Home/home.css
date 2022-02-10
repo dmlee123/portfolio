@@ -1,4 +1,6 @@
-#root > div > div:nth-child(1) > div > h1 {
+
+
+#root > div > div:nth-child(1) > div > div{
 	font-family: 'Courgette', cursive;
 	font-size: 130px;
 	display: flex;
@@ -11,6 +13,3 @@
 	font-family: 'Alata', sans-serif;
 	color: #6A8E7F;
 }
-
-
-
