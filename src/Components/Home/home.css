@@ -2,7 +2,7 @@
 
 #root > div > div:nth-child(1) > div > div{
 	font-family: 'Courgette', cursive;
-	font-size: 130px;
+	font-size: 14.5vw;
 	display: flex;
 	justify-content: center;
 	margin-top: 200px;
@@ -12,4 +12,5 @@
 #root > div > div:nth-child(1) > div > h3{
 	font-family: 'Alata', sans-serif;
 	color: #6A8E7F;
+	font-size: 28px;
 }
